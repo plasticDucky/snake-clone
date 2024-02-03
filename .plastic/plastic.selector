@@ -1,0 +1,4 @@
+repository "snake-clone@aaax27@cloud"
+  path "/"
+    br "/main"
+    co "/main"
